@@ -1,0 +1,9 @@
+qwen_agent
+pandas
+scikit-learn
+numpy
+gradio>=4.0.0
+json5 
+unidecode>=1.3.4
+fuzzywuzzy>=0.18.0
+python-Levenshtein>=0.12.2

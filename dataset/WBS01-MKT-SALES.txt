@@ -1,0 +1,113 @@
+1. Giai đoạn: Branding MKT
+   Công việc: Branding
+        Phòng ban: Marketing
+        A: CEO
+        R: MKT team
+        Làm gì: Hoạt động Branding MKT
+        Mục tiêu: Nhận diện thương hiệu
+        Kết quả trả ra: Activity update and report - BM.MKT.01
+        Duration: Always on
+        Receiver: BOD
+        Định kỳ thực hiện: Tháng
+        Gửi kết quả qua: Email / PM in the future
+        Đo lường/đánh giá: 2 lần nhắc/Tháng
+
+2. Giai đoạn: Sales Sourcing
+    I. Công việc: Tìm kiếm cơ hội bán hàng
+
+        Phòng ban: Marketing
+        A: MKT leader
+        R: MKT team
+        Làm gì: Digital MKT
+        Mục tiêu: Xu hướng thị trường / Data khách tiềm năng
+        Kết quả trả ra: Dataset
+        Duration: Always on
+        Receiver: Sales
+        Định kỳ thực hiện: Tuần
+        Gửi kết quả qua: PM/Pipeline/New opp
+        Đo lường/đánh giá: CPL + Conversion%
+
+    II. Công việc: Tìm kiếm cơ hội bán hàng
+
+        Phòng ban: Marketing
+        A: MKT leader
+        R: MKT team
+        Làm gì: Event
+        Mục tiêu: Xu hướng thị trường / Data khách tiềm năng
+        Kết quả trả ra: Dataset
+        Duration: Always on
+        Receiver: Sales
+        Định kỳ thực hiện: Tuần
+        Gửi kết quả qua: PM/Pipeline/New opp
+        Đo lường/đánh giá: CPL + Conversion%
+
+        Phòng ban: Kinh doanh
+        A: Sales Leader
+        R: Sales
+        Làm gì: Hợp tác với Cộng tác viên / Đối tác chiến lược
+        Kết quả trả ra: Dataset
+        Duration: Always on
+        Receiver: Sales
+        Định kỳ thực hiện: Tuần
+        Gửi kết quả qua: PM/Pipeline/New opp
+        Đo lường/đánh giá: CPL + Conversion%
+
+3. Giai đoạn: Data Qualification
+    Công việc: Xác định cơ hội bán hàng
+
+    Phòng ban: Kinh doanh
+    A: Sales Leader
+    R: Telesales
+    Làm gì: Khai thác grounding dataset
+    Mục tiêu: Xác định cơ hội bán hàng theo ưu tiên tiềm năng
+    Kết quả trả ra:
+        + Danh sách khách hàng tiềm năng (Customer Big Database)
+        + (0) Lên Proposal
+        + (1) Cần ưu tiên khai thác
+        + (2) Tiềm năng gần
+        + (3) Tiềm năng xa
+        + (4) Đóng case do đã có nhà thầu / Đã làm xong
+        + (5) Ngưng – khác
+    Receiver: Sales
+    Gửi kết quả qua: PM/Pipeline/New opp
+    Đo lường/đánh giá: Khách hàng tiềm năng
+
+4. Giai đoạn: Approach
+    Công việc: Lọc cơ hội bán hàng theo ưu tiên
+        Phòng ban: Kinh doanh
+        A: Sales Leader
+        R: Sales
+        Bước 1:
+        Làm gì: Tiếp cận khách hàng xác định tiềm năng
+        Kết quả:
+        + Potential Customer Info Checklist - 01
+        + Danh sách khách tiềm năng (chuyển nhóm)
+        Bước 2:
+        Làm gì: Khai thác thông tin chuẩn bị giao dịch bán hàng
+        Kết quả:
+            + Potential Customer Info Checklist - 02
+            + Danh sách khách tiềm năng (chuyển nhóm)
+        Bước 3:
+        Làm gì: Xác nhận thông tin hình thành giao dịch
+        Kết quả:
+            + Potential Customer Info Checklist - 03
+            + Danh sách khách tiềm năng (chuyển nhóm)
+            + Khái toán sơ bộ
+        Gửi kết quả qua: PM/Pipeline/New opp
+        Đo lường/đánh giá: Khách hàng tiềm năng
+
+5. Giai đoạn: Approach (Bổ sung thêm thông tin khách hàng)
+    Công việc: Briefing khách hàng và khái toán sơ bộ
+        Làm gì:
+            + Briefing thông tin khách hàng
+            + Khái toán sơ bộ
+            + Yêu cầu bộ hình ảnh chuẩn bị cho buổi họp chính thức với khách hàng ver 01
+        Kết quả trả ra:
+            + Briefing thông tin khách hàng
+            + 2 dự toán có giá trị chênh lệch 20%
+            + Yêu cầu thiết kế 2 phong cách với tối thiểu 2 views / không gian nhỏ + layout toàn nhà
+        Duration: 4 tiếng
+        Receiver: Tiếp nhận từ thiết kế
+        Định kỳ thực hiện: Khi có yêu cầu
+        Gửi kết quả qua: PM – Briefing – Khái toán
+        Đo lường/đánh giá: Thiết kế

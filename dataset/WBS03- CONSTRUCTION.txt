@@ -1,0 +1,664 @@
+1. Giai đoạn: Thi Công 
+   Công việc: Quản lý dự án
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng/ Giám sát
+        Điều kiện tiên quyết: nan
+        Làm gì: Quản lý dự án
+        Mục tiêu: nan
+        Kết quả trả ra: nan
+        Receiver: nan
+        Định kỳ thực hiện: nan
+        Gửi kết quả qua: nan
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+2. Giai đoạn: Thi Công
+   Công việc: Chuyển giao toàn bộ thông tin cho Team Dự Án
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: Nhân viên Kinh doanh
+        Điều kiện tiên quyết:   
+            1. BOQ được duyệt
+            2. Thiết kế 3D được duyệt
+            3. Hợp đồng Thiết kế và thi công
+        Làm gì: Chuyển giao toàn bộ thông tin cho Team Dự Án, bao gồm:
+            1. BOQ được duyệt
+            2. Thiết kế 3D được duyệt
+            3. Hợp đồng Thiết kế và thi công
+        Mục tiêu: Team dự án nắm được đầy đủ thông tin dự án để triển khai thi công
+        Kết quả trả ra: Tình trạng dự án
+            1. BOQ được duyệt
+            2. Thiết kế 3D được duyệt
+            3. Hợp đồng Thiết kế và thi công
+        Receiver: Team Thiết kế, Dự toán, Mua hàng, Thi công
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM (Team chuyên môn cập nhật trên PM)
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+3. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: Dự toán
+        A: TP Dự toán - Đặt hàng
+        R: NV dự toán
+        Điều kiện tiên quyết: 1. BOQ
+        Làm gì: Cập nhật bảng khối lượng công việc
+        Mục tiêu: Lên kế hoạch thi công
+        Kết quả trả ra: Bảng khối lượng công việc được cập nhật cuối cùng
+        Receiver: Chỉ huy trưởng / NV Thiết kế / Giám sát
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+4. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: Thiết kế
+        A: Tp Thiết kế
+        R: NV thiết kế
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+        Làm gì: Cập nhật bảng Spec vật liệu
+        Mục tiêu: Lên kế hoạch thi công
+        Kết quả trả ra: Bảng spec vật liệu cập nhật cuối cùng
+        Receiver: NV Đặt hàng/Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Email/PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+5. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: Mua hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV đặt hàng
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final BOQ
+        Làm gì: Cập nhật kế hoạch đặt hàng
+        Mục tiêu: Lên kế hoạch đặt hàng đảm bảo đúng tiến độ, trong ngân sách
+        Kết quả trả ra: Kế hoạch đặt hàng cập nhật cuối cùng
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+6. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: Mua hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV đặt hàng
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+        Làm gì: Mẫu đề xuất theo bảng Spec vật liệu
+        Mục tiêu: Lên kế hoạch đặt hàng đảm bảo đúng tiến độ, trong ngân sách
+        Kết quả trả ra: Bảng spec vật liệu có thông tin Lead time, mẫu đề xuất cập nhật cuối cùng
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+7. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+            3. Kế hoạch đặt hàng
+        Làm gì: 
+            1. Kế hoạch thi công dự án và các bước phối hợp
+            2. Kế hoạch đặt hàng có leadtime
+            3. Plan thu tiền dự án
+        Mục tiêu: Kế hoạch thi công dự án và các bước phối hợp
+        Kết quả trả ra: 
+            1. Biểu đồ Gantt - bản cập nhật cuối cùng
+            2. Kế hoạch đặt hàng có leadtime
+            3. Kế hoạch thu dự án
+        Receiver: GM/CEO
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+8. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: 2D, Thi công, Thiết kế
+        A: Chỉ huy trưởng
+        R: 2D, Thi công, Thiết kế
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+            3. Kế hoạch đặt hàng
+        Làm gì: Khảo sát mặt bằng
+        Mục tiêu: Kế hoạch thi công dự án và các bước phối hợp
+        Kết quả trả ra: Biên bản khảo sát mặt bằng
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+9. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị kick-off nội bộ/ Chuẩn bị họp cập nhật dự án
+        Phòng ban: 2D
+        A: Tp Thiết kế
+        R: NV 2D
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+            3. Kế hoạch đặt hàng
+        Làm gì: Vẽ bản vẽ xin phép
+        Mục tiêu: Kế hoạch thi công dự án và các bước phối hợp
+        Kết quả trả ra: Bản vẽ xin phép
+        Receiver: Chỉ huy trưởng / NV Thiết kế
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Email/PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+10. Giai đoạn: Thi Công
+   Công việc: Họp Kick-off nội bộ/ Họp cập nhật dự án
+        Phòng ban: Team dự án
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+            3. Bảng spec vật liệu
+            4. Biểu đồ Gantt
+            5. Kế hoạch đặt hàng
+        Làm gì: 
+            - Chốt phương án cập nhật sau cùng:
+                + Khối lượng dự án
+                + Thiết kế  (lưu ý chi tiết khó, quy trình tòa nhà)
+                + Spec: long lead, mẫu khó, mockup
+                + Tiến độ dự án (3D final (nếu có), bản vẽ thi công (DD),…)
+                + Đặt hàng
+            - Chốt thời gian định kỳ họp cập nhật dự án
+        Mục tiêu: Đảm bảo team dự án biết rõ nên làm gì, khi nào để đạt đúng deadline và chất lượng
+        Kết quả trả ra: Biên bản họp kick off, có deadline và chữ ký xác nhận của từng bộ phận
+        Receiver: GM/CEO
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Email/PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+11. Giai đoạn: Thi Công
+   Công việc: Triển khai dự án
+        Phòng ban: Mua hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV đặt hàng
+        Điều kiện tiên quyết: 
+            1. Final 3D
+            2. Final Khối lượng công việc
+        Làm gì: Lấy mẫu vật liệu từ NCC phù hợp
+        Mục tiêu: Mẫu vật liệu thực tế đáp ứng được tiến độ, ngân sách và thẩm mỹ
+        Kết quả trả ra: Mẫu vật liệu thực tế đáp ứng được tiến độ, ngân sách và thẩm mỹ
+        Receiver: Thiết kế
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Không
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+12. Giai đoạn: Thi Công
+   Công việc: Triển khai dự án
+        Phòng ban: Thiết kế
+        A: Tp Thiết kế
+        R: NV 2D
+        Điều kiện tiên quyết: 
+            1. Bảng spec vật liệu
+            2. Final Khối lượng công việc
+            3. Final 3D
+        Làm gì: Vẽ bản vẽ xin phép, bản vẽ thi công
+        Mục tiêu: Mẫu vật liệu thực tế đáp ứng được tiến độ, ngân sách và thẩm mỹ
+        Kết quả trả ra: 1. Bản vẽ xin phép
+2. Bản vẽ thi công
+        Receiver: Thiết kế
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Email/PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+13. Giai đoạn: Thi Công
+   Công việc: Chuẩn bị hồ sơ xin phép thi công
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 
+            1. Bảng spec vật liệu
+            2. Final Khối lượng công việc
+            3. Final 3D
+        Làm gì: Chuẩn bị hồ sơ xin phép thi công: Làm việc với khách hàng ký ủy quyền và Cọc phí thi công cho tòa nhà (nếu có)
+        Mục tiêu: Mẫu vật liệu thực tế đáp ứng được tiến độ, ngân sách và thẩm mỹ
+        Kết quả trả ra: 
+            1. Bản vẽ xin phép
+            2. Bản vẽ thi công
+        Receiver: Thiết kế
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+14. Giai đoạn: Thi Công
+   Công việc: Xin phép thi công
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: Bản vẽ xin phép
+        Làm gì: Nộp hồ sơ xin phép, gồm:
+                1. Giấy ủy quyền từ Khách hàng
+                2. Bản vẽ xin phép
+                3. Đơn đăng ký thi công theo form BQL
+                4. Hồ sơ khác theo yêu cầu
+                5. Cọc phí thi công (Khách hàng cọc)
+        Mục tiêu: Có được đồng ý của BQL tòa nhà/ đơn vị phường xã chuyên trách cho phép thi công
+        Kết quả trả ra: Giấy phép thi công
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+15. Giai đoạn: Thi Công
+   Công việc: Họp với KH lần thứ 3++
+        Phòng ban: Thiết kế
+        A: Tp Thiết kế
+        R: NV Thiết kế
+        Điều kiện tiên quyết: 1. Bản vẽ thi công
+2. Mẫu vật liệu trình duyệt
+
+        Làm gì: Duyệt bản vẽ và mẫu vật liệu với khách hàng
+1. Mẫu vật liệu
+2. Thiết bị vệ sinh, đèn, thiết bị bếp, MEP ( nếu có )
+3. Loose fur
+Trình bày
+Triển khai bản vẽ Fitout
+Triển khai bản vẽ furniture
+        Mục tiêu: Khách hàng xác nhận mẫu vật liệu và bản vẽ sau cùng để tiến hành thi công và triển khai mua hàng
+        Kết quả trả ra: 1. Bảng tổng hợp Spec được duyệt (có dán tem chữ ký khách hàng)
+2. Bản vẽ thi công có chữ ký khách hàng
+BẮT ĐẦU TÍNH TIẾN ĐỘ DỰ ÁN
+        Receiver: Chỉ huy trưởng / NV Đặt hàng / Giám sát
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+16. Giai đoạn: Thi Công
+   Công việc: Nhận mặt bằng
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1. Final 3D
+2. Final Khối lượng công việc
+        Làm gì: Nhận mặt bằng sẵn sàng thi công với khách hàng
+        Mục tiêu: Khách hàng xác nhận mẫu vật liệu và bản vẽ sau cùng để tiến hành thi công và triển khai mua hàng
+        Kết quả trả ra: Biên bản nhận mặt bằng có chữ ký khách hàng
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+17. Giai đoạn: Thi Công
+   Công việc: Khởi công dự án
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1. Final 3D
+2. Final Khối lượng công việc
+        Làm gì: Cúng khởi công
+        Mục tiêu: Khách hàng xác nhận mẫu vật liệu và bản vẽ sau cùng để tiến hành thi công và triển khai mua hàng
+        Kết quả trả ra: Hình ảnh cúng khởi công
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+18. Giai đoạn: Thi Công
+   Công việc: Yêu cầu đặt hàng
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1. Final 3D
+2. Final Khối lượng công việc
+        Làm gì: Yêu cầu đặt hàng lần 1
+        Mục tiêu: Đưa yêu cầu cho Phòng mua hàng thực hiện việc mua vật tư có ưu tiên 1
+        Kết quả trả ra: Phiếu yêu cầu vật tư
+        Receiver: NV Mua hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+19. Giai đoạn: Thi Công
+   Công việc: Yêu cầu đặt hàng
+        Phòng ban: Đặt hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV đặt hàng
+        Điều kiện tiên quyết: 1. Bảng spec vật liệu
+2. Final Khối lượng công việc
+3. Final 3D
+4. Bản vẽ thi công
+5. Phiếu yêu cầu vật tư
+        Làm gì: Đặt hàng: (Nhận các phiếu yêu cầu vật tư từ Giám sát cho các hạn mục Dbhomes mua vật tư và book thi công lắp đặt)
+- Lọc khối lượng hạn mục gửi thầu lấy giá: đối với các hạn mục có kỹ thuật và phương án thi công phức tạp, PMH tạo group với GM/TP thi công/ CHT tương tác kỹ thuật để chốt cơ sở lấy giá cho đúng
+(RIÊNG: các hạn mục (* )sẽ gửi các nhà thầu chiến lược, gửi PO cho thầu xác nhận dựa trên giá chuẩn, và thầu báo giá các hạn mục ngoài giá chuẩn)
+- Lập bảng so sánh giá
+        Mục tiêu: Khối lượng đúng, đủ
+        Kết quả trả ra: Bảng khối lượng chi tiết đơn đặt hàng dự kiến
+        Receiver: Chỉ huy trưởng / Giám sát
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Không
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+20. Giai đoạn: Thi Công
+   Công việc: Yêu cầu đặt hàng và triển khai thi công
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1. Bảng spec vật liệu
+2. Final Khối lượng công việc
+3. Final 3D
+4. Bản vẽ thi công
+        Làm gì: Chỉ huy trưởng/giám sát: -  Kiểm tra khối lượng, các yêu cầu kỹ thuật, tiến độ…. đúng với yêu cầu của dự án
+- Nghiệm thu khối lượng, chất lượng với nhà thầu/NCC
+- Quản lý tiến độ nhà thầu/NCC
+- Báo cáo công việc đầu ngày và cuối mỗi ngày trên group dự án với Khách hàng
+Thầu phụ/ NCC:
+- NCC khảo sát, bốc tách khối lượng và báo giá cho DBH
+- Tuần thủ những yêu cầu về chất lượng, kỹ thuật, tiến độ của dự án
+Giám sát:
+- Báo cáo công việc đầu ngày và cuối mỗi ngày trên group dự án nội bộ
+- Báo cáo công việc trên PM
+        Mục tiêu: Triển khai đúng đủ khối lượng, tiến độ phù hợp
+        Kết quả trả ra: Khối lượng chi tiết đơn đặt hàng với thầu phụ
+Triển khai thực hiện ngoài công trình
+        Receiver: NV Đặt hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber/Zalo
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+21. Giai đoạn: Thi Công
+   Công việc: Đặt hàng và triển khai thi công
+        Phòng ban: Mua hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV Đặt hàng
+        Điều kiện tiên quyết: 1. Bảng spec vật liệu
+2. Final Khối lượng công việc
+3. Final 3D
+4. Bản vẽ thi công
+5. Phiếu yêu cầu vật tư
+        Làm gì: '- Làm rõ điều khoản thanh toán, tiến độ đầu cuối của công trình: Đặt cọc giữ ván (Mộc), và các mã đặc biệt có stock ít + time đặt hàng lâu so với tiến độ từng DA
+- Ra đơn đặt hàng (PO): hoàn thành 7 ngày đối với DA < 500tr, 14 ngày >500tr
+- Hoàn thành trình ký hồ sơ đặt hàng (Đơn đặt hàng, so sánh giá, Đề nghị thanh toán)
+ NOTE
+Theo dõi tiến độ đặt hàng và kiểm tra chất lượng hàng hóa. Xử lý các vấn đề liên quan đến thầu phụ - Cập nhật tiến độ đặt hàng hằng tuần Kế toán: - Thanh toán các đơn hàng theo tiến độ và Tư vấn về các giải pháp tài chính - Báo cáo những biến động bất thường về chi phí
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Đơn đặt hàng, so sánh giá, Đề nghị thanh toán đã thống nhất với nhà thầu//nhà cung cấp
+- Ngày khởi công: Đặt hàng đạt 70% khối lượng
+- Sau khi khởi công 7 ngày: Đặt hàng đạt 100% khối lượng
+        Receiver: Chỉ huy trưởng/NV Kế toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Zalo
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+22. Giai đoạn: Thi Công
+   Công việc: Đặt hàng và triển khai thi công
+        Phòng ban: Kế toán
+        A: Kế toán trưởng
+        R: NV kế toán
+        Điều kiện tiên quyết: Đơn đặt hàng, so sánh giá, Đề nghị thanh toán đã thống nhất với nhà thầu//nhà cung cấp
+- Ngày khởi công: Đặt hàng đạt 70% khối lượng
+- Sau khi khởi công 7 ngày: Đặt hàng đạt 100% khối lượng
+        Làm gì: Kiểm tra hồ sơ đúng đủ, nhập liệu Misa
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Hồ sơ Kế toán trưởng phê duyệt
+        Receiver: NV Mua hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Zalo
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+23. Giai đoạn: Thi Công
+   Công việc: Đặt hàng và triển khai thi công
+        Phòng ban: Đặt hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV đặt hàng
+        Điều kiện tiên quyết: Đơn đặt hàng, so sánh giá, Đề nghị thanh toán đã thống nhất với nhà thầu//nhà cung cấp
+- Ngày khởi công: Đặt hàng đạt 70% khối lượng
+- Sau khi khởi công 7 ngày: Đặt hàng đạt 100% khối lượng
+        Làm gì: Lên lịch thanh toán cho Nhà thầu/Nhà cung cấp
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Lịch chi được BOD phê duyệt
+        Receiver: NV Kế toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+24. Giai đoạn: Thi Công
+   Công việc: Đặt hàng và triển khai thi công
+        Phòng ban: Kế toán
+        A: Kế toán trưởng
+        R: NV kế toán
+        Điều kiện tiên quyết: Lịch chi được BOD phê duyệt
+        Làm gì: Kiểm tra lịch chi, hồ sơ trên misa
+Chi tiền theo đúng lịch chi đã phê duyệt
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Ủy nhiệm chi
+        Receiver: NV Mua hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+25. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: 1. Yêu cầu phát sinh của khách hàng
+        Làm gì: Nhận yêu cầu phát sinh thay đổi
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: 1. BB thống nhất công việc thay đổi phát sinh (BD)
+        Receiver: NV thiết kế
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+26. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1. BB thống nhất công việc thay đổi phát sinh (BD)
+        Làm gì: Phối hợp với các phòng ban liên quan triển khai xử lý phát sinh thay đổi từ khách hàng
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: 1. BB thống nhất công việc thay đổi phát sinh (BD)
+        Receiver: NV Thiết kế/Dự toán/Mua hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+27. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Thiết kế
+        A: Tp Thiết kế
+        R: NV Thiết kế
+        Điều kiện tiên quyết: 1. Yêu cầu phát sinh của khách hàng
+2. BB thống nhất công việc thay đổi phát sinh (BD)
+        Làm gì:
+Triển khai 3D/ BVTC (nếu có)
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: 1. Bản vẽ cập nhật thay đổi phát sinh (TK)
+        Receiver: NV Dự toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+28. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Dự toán
+        A: TP Dự toán - Đặt hàng
+        R: NV dự toán
+        Điều kiện tiên quyết: 1. Yêu cầu phát sinh của khách hàng
+2. BB thống nhất công việc thay đổi phát sinh (BD)
+3. Bản vẽ cập nhật thay đổi phát sinh (TK)
+        Làm gì: - Nhận triển khai công việc từ team Thiết kế
+- Hoàn thành báo giá gửi cho Sale
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: 1. Báo giá thay đổi phát sinh (DT)
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+29. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: Sale Admin
+        Điều kiện tiên quyết: 1. Bản vẽ cập nhật thay đổi phát sinh (TK)
+2.  Báo giá thay đổi phát sinh (DT
+        Làm gì: Soạn thảo phụ lục hợp đồng ver 01
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Phụ lục hợp đồng Ver + ĐNTT ver 01
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+30. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: 1. Yêu cầu phát sinh của khách hàng
+2. BB thống nhất công việc thay đổi phát sinh (BD)
+3. Bản vẽ cập nhật thay đổi phát sinh (TK)
+4.  Báo giá thay đổi phát sinh (DT
+        Làm gì: Chốt phát sinh với khách hàng
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: 1. Bản vẽ cập nhật thay đổi phát sinh (TK)
+2. Báo giá thay đổi phát sinh (DT)
+3. Phụ lục hợp đồng
+4. ĐNTT và thu phí tạm ứng phụ lục (nếu có)
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+31. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Mua hàng
+        A: Trưởng nhóm Mua hàng
+        R: NV Mua hàng
+        Điều kiện tiên quyết: 1.BB thống nhất công việc thay đổi phát sinh (BD)
+2. Bản vẽ cập nhật thay đổi phát sinh (TK)
+3. Báo giá thay đổi phát sinh (DT)
+        Làm gì: Thực hiện theo quy trình từ bước Yêu cầu đặt hàng
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Đơn đặt hàng với thầu phụ
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+32. Giai đoạn: Thi Công
+   Công việc: Xử lý phát sinh thay đổi
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: 1.BB thống nhất công việc thay đổi phát sinh (BD)
+2. Bản vẽ cập nhật thay đổi phát sinh (TK)
+3. Khối lượng thay đổi phát sinh (DT)
+        Làm gì: Thực hiện theo quy trình từ bước Yêu cầu đặt hàng
+        Mục tiêu: Mua hàng đúng số lượng, tiến độ, giá cả hợp lí, thanh toán tốt
+        Kết quả trả ra: Khối lượng chi tiết đơn đặt hàng với thầu phụ
+Triển khai thực hiện ngoài công trình
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+33. Giai đoạn: Thi Công
+   Công việc: Nghiệm thu giai đoạn với khách hàng
+        Phòng ban: Thi công
+        A: Giám đốc Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: Đồ mộc được tập kết tại site
+        Làm gì: Nghiệm thu giai đoạn 1: Chụp hình hàng nội thất tập kết tại công trình
+        Mục tiêu: Thu tiền
+        Kết quả trả ra: Biên bản nghiệm thu giai đoạn với khách hàng
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+34. Giai đoạn: Thi Công
+   Công việc: Nghiệm thu giai đoạn với khách hàng
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: Sale Admin
+        Điều kiện tiên quyết: Biên bản nghiệm thu giai đoạn với khách hàng
+        Làm gì: Đề nghị thanh toán đợt
+        Mục tiêu: Nhận thanh toán đợt đúng, đủ
+        Kết quả trả ra: Sale Admin
+        Receiver: Khách hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+35. Giai đoạn: Thi Công
+   Công việc: Nghiệm thu giai đoạn với khách hàng
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: 1. Biên bản nghiệm thu giai đoạn với khách hàng
+2. Đề nghị thanh toán đợt
+        Làm gì: Thu phí thanh toán đợt
+        Mục tiêu: Nhận thanh toán đợt đúng, đủ
+        Kết quả trả ra: Ủy nhiệm chi từ khách hàng
+        Receiver: NV Kế toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+36. Giai đoạn: Thi Công
+   Công việc: Nghiệm thu giai đoạn với khách hàng
+        Phòng ban: Kế toán
+        A: Kế toán trưởng
+        R: NV kế toán
+        Điều kiện tiên quyết: 1. Ủy nhiệm chi từ khách hàng
+2. Biên bản nghiệm thu giai đoạn với khách hàng
+        Làm gì: Phiếu thu của khách hàng
+        Mục tiêu: Thu tiền
+        Kết quả trả ra: Phiếu thu
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM
+        Duration: nan
+        Đo lường/đánh giá: nan

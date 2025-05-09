@@ -1,0 +1,141 @@
+Giai đoạn: Proposal
+Công việc: PM dự án
+Phòng ban: Kinh doanh
+Điều kiện tiên quyết: (chưa có kế hoạch)
+A (Accountable): Salesman
+R (Responsible): NV kinh doanh
+Làm gì: PM dự án
+Mục tiêu: (chưa có kế hoạch)
+Kết quả trả ra: (chưa có kế hoạch)
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị buổi họp 01 - KH
+Phòng ban: Kinh doanh
+Điều kiện tiên quyết: Có checklist 03
+A (Accountable): Sales leader
+R (Responsible): NV kinh doanh
+Làm gì: Chuẩn bị đầy đủ thông tin họp buổi 01 với KH
+Mục tiêu: Chuẩn bị thông tin nội bộ/ thu thập tối đa thông tin có thể để làm việc với khách hàng buổi gặp mặt 01
+Kết quả trả ra: Pre-Meet Toolkit 01
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị buổi họp 01 - KH
+Phòng ban: Thiết kế
+Điều kiện tiên quyết: tk
+A (Accountable): Tp Thiết kế
+R (Responsible): Falco Team
+Làm gì: 2 views 3D
+Mục tiêu: Thu hút sự hứng thú của khách/ pull 
+Kết quả trả ra: 2 views 3D
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Họp 01 - KH
+Phòng ban: Kinh doanh
+Điều kiện tiên quyết: 1. Briefing thông tin khách hàng
+2. Nhận 2 phong cách thiết kế với tối thiểu 2 views + layout toàn nhà
+3. Khái toán có giá trị chênh lệch +-20%
+A (Accountable): Salesman
+R (Responsible): NV kinh doanh
+Làm gì: 1. Giới thiệu quy trình DBH 
+2. Trình bày 2 phong cách thiết kế với tối thiểu 2 views/ mỗi không gian nhỏ
+3. Khai thác yêu cầu chi tiết của khách hàng về vật liệu, tiến độ, ngân sách, phong cách - Có biểu mẫu- xác nhận bởi khách hàng
+Mục tiêu: Các yếu tố then chốt về mặt giá/ kỹ thuật/ thiết kế để deal thành công
+Kết quả trả ra: Breifing cập nhật
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Họp 01 - KH
+Phòng ban: Thiết kế
+Điều kiện tiên quyết: 1. Briefing thông tin khách hàng
+2. Nhận 2 phong cách thiết kế với tối thiểu 2 views + layout toàn nhà
+3. Khái toán có giá trị chênh lệch +-20%
+A (Accountable): Salesman
+R (Responsible): NV Thiết kế
+Làm gì: Đóng vai trò tư vấn kỹ thuật/ thiết kế để support sales chốt deal
+Mục tiêu: Các yếu tố then chốt về mặt kỹ thuật/ thiết kế để deal thành công
+Kết quả trả ra: (chưa có kế hoạch)
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị chốt deal
+Phòng ban: Thiết kế
+Điều kiện tiên quyết: 1. Thiết kế 2 phong cách thiết kế với tối thiểu 2 views/ mỗi không gian nhỏ + layout toàn nhà
+2. Thông tin đủ  điều kiện để lên proposal 
+A (Accountable): Tp Thiết kế
+R (Responsible): NV Thiết kế
+Làm gì: Làm proposal 
+Mục tiêu: (chưa có kế hoạch)
+Kết quả trả ra: 1. 3D hoàn chỉnh ver 01 - Theo tiêu chuẩn PROPOSAL của DBHomes
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị chốt deal
+Phòng ban: Thiết kế
+Điều kiện tiên quyết: 1. 3D hoàn chỉnh ver 01 - Theo tiêu chuẩn PROPOSAL của DBHomes
+A (Accountable): TP Dự toán - Đặt hàng
+R (Responsible): NV Thiết kế
+Làm gì: Chốt bản vẽ triển khai cho NV Dự toán báo giá 
+Mục tiêu: (chưa có kế hoạch)
+Kết quả trả ra: Triển khai vật liệu, kích thước, chi tiết của 3D/concept
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị chốt deal
+Phòng ban: Dự toán
+Điều kiện tiên quyết: 1. Yêu cầu dự toán chi tiết
+2. Layout 
+3. Triển khai vật liệu, kích thước, chi tiết của 3D/concept
+A (Accountable): TP Dự toán - Đặt hàng
+R (Responsible): NV Dự toán
+Làm gì: Thực hiện yêu cầu dự toán chi tiết
+Mục tiêu: - Đề xuất phương án thay đổi vật liệu phù hợp theo nhu cầu của KH hoặc cho phù hợp tiến độ KH yêu cầu nhận nhà vào thời điểm nào
+Time trả bài:
+- Khái toán theo combo ABC (dưới 1 tỷ): 2 ngày (nhận triển khai từ team tk song song lúc chốt layout và chưa xong 3D/concept)
+- Dự án cao cấp (trên 1 tỷ, dưới 2 tỷ): 3 ngày
+- Dự án cao cấp (trên 2 tỷ): 3-4 ngày
+Kết quả trả ra: Dự toán chi tiết ver 01
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Chuẩn bị chốt deal
+Phòng ban: Kinh doanh
+Điều kiện tiên quyết: 1. Briefing thông tin khách hàng
+2. Dự toán chi tiết ver 01
+A (Accountable): Salesman
+R (Responsible): NV hỗ trợ kinh doanh
+Làm gì: Soạn thảo hợp đồng ver 01
+Mục tiêu: (chưa có kế hoạch)
+Kết quả trả ra: Hợp đồng Ver + ĐNTT ver 01
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Họp 02+ - KH
+Phòng ban: Kinh doanh, Thiết kế
+Điều kiện tiên quyết: 1. 3D hoàn chỉnh ver 01
+2. Dự toán chi tiết ver 01
+3. Hợp đồng ver 01
+A (Accountable): Salesman
+R (Responsible): Sales, Thiết kế
+Làm gì: Họp với khách lần chính thức 02++
+Mục tiêu: 1. Tư vấn và định hướng khách hàng theo phương án tốt nhất
+2. Giải đáp thắc mắc, tư vấn giải pháp.
+3. Trình hợp đồng lần 1++ - thương lượng
+Kết quả trả ra: Final Proposal:
+1. Final 3D
+2. Final BOQ
+3. Hợp đồng đã ký kết
+4. Tiền tạm ứng đợt 1
+5. Chuyển board dự án qua Construction
+------------------------------------------------------------
+Giai đoạn: Proposal
+Công việc: Họp 02++ - KH
+Phòng ban: Kinh doanh, Thiết kế
+Điều kiện tiên quyết: 1. 3D hoàn chỉnh
+2. Dự toán chi tiết 
+3. Hợp đồng thiết kế và thi công
+A (Accountable): Salesman
+R (Responsible): Sales, Thiết kế
+Làm gì: Họp với khách lần chính thức để ký hợp đồng
+Mục tiêu: Ký hợp đồng
+Kết quả trả ra: Final Proposal:
+1. 3D được duyệt
+2. BOQ được duyệt
+3. Hợp đồng đã ký kết
+4. Tiền tạm ứng đợt 1
+5. Chuyển board dự án qua Construction
+------------------------------------------------------------
+

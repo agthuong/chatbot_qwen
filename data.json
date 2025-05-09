@@ -1,0 +1,98 @@
+{
+    "quy_trinh": [
+      {
+        "ma": "branding_mkt",
+        "ten": "Thương hiệu (Branding MKT)",
+        "nguoi_chiu_trach_nhiem": "CEO",
+        "nguoi_thuc_hien": "Team Marketing",
+        "hoat_dong": [
+          {
+            "ten_hoat_dong": "Triển khai các chiến dịch thương hiệu",
+            "muc_tieu": "Nhận diện thương hiệu",
+            "ket_qua": "Cập nhật hoạt động và báo cáo – BM.MKT.01",
+            "gui_den": ["BOD qua Email", "BOD qua PM"],
+            "tan_suat": {
+              "khoang_thoi_gian": "hàng tháng",
+              "luon_kich_hoat": true,
+              "so_nhac_nho_moi_khoang": 2
+            }
+          }
+        ]
+      },
+      {
+        "ma": "sales_sourcing",
+        "ten": "Tìm kiếm khách hàng tiềm năng (Sales Sourcing)",
+        "nguoi_chiu_trach_nhiem": ["Trưởng phòng Marketing", "Trưởng phòng Kinh doanh"],
+        "nguoi_thuc_hien": ["Team Marketing", "Team Kinh doanh"],
+        "hoat_dong": [
+          {"ten_hoat_dong": "Digital Marketing"},
+          {"ten_hoat_dong": "Tổ chức sự kiện"},
+          {"ten_hoat_dong": "Hợp tác với đối tác/Đối tác chiến lược"}
+        ],
+        "muc_tieu": "Thu thập dữ liệu khách hàng tiềm năng, nắm bắt xu hướng thị trường",
+        "ket_qua": "Bộ dữ liệu khách hàng tiềm năng",
+        "gui_den": ["Phòng Kinh doanh qua PM/Pipeline", "BOD qua PM/Pipeline/Cơ hội mới"],
+        "tan_suat": {
+          "khoang_thoi_gian": ["hàng tuần", "hàng tháng"],
+          "luon_kich_hoat": true
+        },
+        "chi_so": [
+          {"ten": "Chi phí trên mỗi lead", "viet_tat": "CPL"},
+          {"ten": "Tỷ lệ chuyển đổi"}
+        ]
+      },
+      {
+        "ma": "data_qualification",
+        "ten": "Xác minh dữ liệu (Data Qualification)",
+        "nguoi_chiu_trach_nhiem": "Trưởng phòng Kinh doanh",
+        "nguoi_thuc_hien": "Telesales",
+        "dieu_kien_tien_quyet": "Dữ liệu thu thập từ giai đoạn Sales Sourcing",
+        "hoat_dong": "Phân tích và đánh giá cơ hội bán hàng",
+        "muc_tieu": "Xác định và ưu tiên khách hàng tiềm năng",
+        "ket_qua": {
+          "loai": "Danh sách lead phân loại",
+          "phan_loai": [
+            {"ma": 0, "nhan": "Đề xuất"},
+            {"ma": 1, "nhan": "Ưu tiên"},
+            {"ma": 2, "nhan": "Gần hạn"},
+            {"ma": 3, "nhan": "Dài hạn"},
+            {"ma": 4, "nhan": "Đã chốt"},
+            {"ma": 5, "nhan": "Loại bỏ"}
+          ]
+        },
+        "gui_den": ["Phòng Kinh doanh qua PM", "Phòng Kinh doanh qua Pipeline"],
+        "danh_gia": "Dựa trên số lượng lead đã xác minh"
+      },
+      {
+        "ma": "approach",
+        "ten": "Tiếp cận (Approach)",
+        "nguoi_chiu_trach_nhiem": "Trưởng phòng Kinh doanh",
+        "nguoi_thuc_hien": "Team Kinh doanh",
+        "dieu_kien_tien_quyet": [
+          "Lead thuộc nhóm 0, 1 hoặc 2",
+          "Hoàn thành Checklist 01",
+          "Hoàn thành Checklist 02"
+        ],
+        "cac_buoc": [
+          {
+            "buoc": 1,
+            "hanh_dong": "Liên hệ ban đầu",
+            "ket_qua": "Checklist 01"
+          },
+          {
+            "buoc": 2,
+            "hanh_dong": "Thu thập thông tin",
+            "ket_qua": "Checklist 02"
+          },
+          {
+            "buoc": 3,
+            "hanh_dong": "Xác nhận & chuẩn bị đề xuất",
+            "ket_qua": ["Checklist 03", "Dự toán sơ bộ"]
+          }
+        ],
+        "gui_thong_tin": ["PM", "Pipeline", "Cơ hội mới"],
+        "danh_gia": "Dựa trên tỷ lệ chuyển đổi thành khách hàng"
+      }
+    ]
+  }
+  

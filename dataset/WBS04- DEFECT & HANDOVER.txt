@@ -1,0 +1,328 @@
+1. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu nội bộ
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: Công trình hoàn thành 98% khối lượng công việc đã ký kết
+        Làm gì: Thông báo ngày nghiệm thu nội bộ trước 03 ngày
+Tổ chức nghiệm thu nội bộ
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu nội bộ
+2.Defect list nội bộ
+        Receiver: NV Đặt hàng
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+2. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu nội bộ
+        Phòng ban: Thiết kế
+        A: TP Thiết kế
+        R: NV Thiết kế
+        Điều kiện tiên quyết: Công trình hoàn thành 98% khối lượng công việc đã ký kết
+        Làm gì: Nghiệm thu nội bộ dự án
+Kiểm tra công năng, thẩm mỹ của sản phẩm tại công trình
+Điều chỉnh những vị trí chưa đạt chất lượng
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu nội bộ
+2.Defect list nội bộ
+        Receiver: Giám sát
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+3. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu nội bộ
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: Công trình hoàn thành 98% khối lượng công việc đã ký kết
+        Làm gì: Kiểm tra công năng, thẩm mỹ của sản phẩm tại công trình
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu nội bộ
+2.Defect list nội bộ
+        Receiver: Giám sát
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+4. Giai đoạn: Defect & Handover 
+   Công việc: Defect sau khi nghiệm thu nội bộ
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: Defect list nội bộ
+        Làm gì: Phối hợp với nhà thầu/nhà cung cấp và phòng đặt hàng để tiến hành defect các hạng mục cần thiết 
+        Mục tiêu: Đảm bảo defect thẩm mỹ tốt nhất và không ảnh hưởng đến tiến độ bàn giao dự án
+        Kết quả trả ra: Check list Defect nội bộ đã hoàn thành (có hình ảnh trước và sau khi defect)
+Khối lượng QT
+        Receiver: GM/CEO
+        Định kỳ thực hiện: Sau khi có defect list nội bộ
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+5. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu với khách hàng
+        Phòng ban: Thi công
+        A: Giám sát Thi công
+        R: Chỉ huy trưởng /Giám sát
+        Điều kiện tiên quyết: Công trình hoàn thành 100% khối lượng công việc đã ký kết
+        Làm gì: Thông báo ngày nghiệm thu khách hàng trước 03 ngày
+Tổ chức nghiệm thu khách hàng
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu nội bộ
+2.Defect list nội bộ
+        Receiver: NV Đặt hàng
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+6. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu với khách hàng
+        Phòng ban: Khách hàng
+        A: TP Thiết kế
+        R: NV Thiết kế
+        Điều kiện tiên quyết: Công trình hoàn thành 100% khối lượng công việc đã ký kết
+        Làm gì: Nghiệm thu nội bộ khách hàng
+Kiểm tra công năng, thẩm mỹ của sản phẩm tại công trình
+Điều chỉnh những vị trí chưa đạt chất lượng
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu nội bộ
+2.Defect list nội bộ
+        Receiver: Giám sát
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+7. Giai đoạn: Defect & Handover 
+   Công việc: Nghiệm thu với khách hàng
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: Công trình hoàn thành 100% khối lượng công việc đã ký kết
+        Làm gì: Nhận thông tin defect và thay đổi từ khách hàng
+        Mục tiêu: Đảm bảo dự án hoàn thiện tốt nhất
+        Kết quả trả ra: 1. Biên bản nghiệm thu khách hàng
+2.Defect list khách hàng
+        Receiver: Giám sát
+        Định kỳ thực hiện: Khi dự án đạt 98% khối lượng công việc đã ký kết
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+8. Giai đoạn: Defect & Handover 
+   Công việc: Defect sau khi nghiệm thu với khách hàng
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: Defect list nội bộ
+        Làm gì: Phối hợp với nhà thầu/nhà cung cấp và phòng đặt hàng để tiến hành defect các hạng mục cần thiết 
+        Mục tiêu: Đảm bảo defect thẩm mỹ tốt nhất và không ảnh hưởng đến tiến độ bàn giao dự án
+        Kết quả trả ra: Check list Defect với khách hàng đã hoàn thành (có hình ảnh trước và sau khi defect)
+Khối lượng QT
+        Receiver: GM/CEO
+        Định kỳ thực hiện: Sau khi có defect list nội bộ
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+9. Giai đoạn: Defect & Handover 
+   Công việc: Bàn giao khách hàng
+        Phòng ban: Marketing
+        A: Trưởng nhóm Marketing
+        R: NV Marketing
+        Điều kiện tiên quyết: Defect list nội bộ
+        Làm gì: Setup standee, setup décor không gian để chụp hình
+Chụp hình, quay video dự án khi bàn giao để làm tư liệu
+        Mục tiêu: Truyển thông sau dự án và làm tư liệu tham khảo
+        Kết quả trả ra: Hình ảnh, video (nếu có)
+        Receiver: Chỉ huy trưởng / NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Lưu trữ trên server
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+10. Giai đoạn: Defect & Handover 
+   Công việc: Chuẩn bị hồ sơ Quyết toán
+        Phòng ban: Dự toán
+        A: TP Dự toán - Đặt hàng
+        R: NV Dự toán
+        Điều kiện tiên quyết: - Hoàn thành tất cả các công việc tại công trình
+- Check list Defect nội bộ đã hoàn thành
+- Hợp đồng đã ký kết
+        Làm gì: Làm form nghiệm thu khối lượng quyết toán phù hợp với loại hình hợp đồng đã ký kết
+- Hợp đồng trọn gói
+- Hợp đồng nghiệm thu khối lượng thực tế
+        Mục tiêu: Nghiệm thu đúng, đủ khối lượng
+        Kết quả trả ra: Form nghiệm thu khối lượng quyết toán
+        Receiver: Giám sát
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+11. Giai đoạn: Defect & Handover 
+   Công việc: Chuẩn bị hồ sơ Quyết toán
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: - Form nghiệm thu khối lượng quyết toán
+- Hợp đồng đã ký kết
+        Làm gì: Kiểm tra và điền nghiệm thu khối lượng quyết toán phù hợp với loại hình hợp đồng đã ký kết Ver 01 
+Thông báo ngày bàn giao dự án trước 03 ngày
+        Mục tiêu: Nghiệm thu đúng, đủ khối lượng
+        Kết quả trả ra: Bảng khối lượng quyết toán Ver 01
+Ngày bàn giao dự án
+        Receiver: NV Dự toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+12. Giai đoạn: Defect & Handover 
+   Công việc: Chuẩn bị hồ sơ Quyết toán
+        Phòng ban: Dự toán
+        A: TP Dự toán - Đặt hàng
+        R: NV Dự toán
+        Điều kiện tiên quyết: Bảng khối lượng quyết toán Ver 01
+        Làm gì: Tổng hợp giá trị khối lượng quyết toán theo khối lượng của hợp đồng
+        Mục tiêu: Nghiệm thu đúng, đủ khối lượng, giá trị dự án
+        Kết quả trả ra: Bảng giá trị khối lượng quyết toán
+        Receiver: Chỉ huy trưởng/NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+13. Giai đoạn: Defect & Handover 
+   Công việc: Chuẩn bị hồ sơ Quyết toán
+        Phòng ban: 2D
+        A: TP Thiết kế
+        R: NV Dự toán
+        Điều kiện tiên quyết: Bảng khối lượng quyết toán Ver 01
+        Làm gì: Điều chỉnh bản vẽ xin phép theo thực tế để làm bản vẽ hoàn công
+        Mục tiêu: Hoàn công với tòa nhà
+        Kết quả trả ra: Bản vẽ hoàn công
+        Receiver: Chỉ huy trưởng/NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+14. Giai đoạn: Defect & Handover 
+   Công việc: Chuẩn bị hồ sơ Quyết toán
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: Ngày bàn giao dự án
+        Làm gì: Hẹn lịch bào giao với khách hàng
+        Mục tiêu: Chốt ngày bàn giao với khách hàng theo thực tế
+        Kết quả trả ra: Ngày bàn giao đã thống nhất với khách hàng
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+15. Giai đoạn: Defect & Handover 
+   Công việc: Hoàn công với BQL tòa nhà
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: 1. Bản vẽ hoàn công (Nội bộ)
+2. Đề nghị hoàn tiền ký quỹ
+3. Biên bản nghiệm thu hoàn công
+4. Yêu cầu nghiệm thu hoàn thành trang trí nội thất
+(mục 2-3-4 theo form BQL tòa nhà)
+        Làm gì: Nộp hồ sơ hoàn công:
+- Biên bản nghiệm thu hoàn công
+- Đề nghị hoàn tiền kí quỹ
+- Bản vẽ hoàn công
+- Yêu cầu nghiệm thu hoàn thành trang trí nội thất
+        Mục tiêu: Hoàn tất hồ sơ hoàn công cho khách hàng
+        Kết quả trả ra: - Hồ sơ hoàn công được duyệt
+- Nhận lại tiền ký quỹ
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+-------------
+
+16. Giai đoạn: After Sales & Maintainance  
+   Công việc: Nghiệm thu và bàn giao khách hàng
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: Bảng giá trị khối lượng quyết toán Ver 01
+Bản vẽ hoàn công
+        Làm gì: - Tổ chức bàn giao cho khách hàng. Thời gian diễn ra đúng hoặc sớm hơn tiến độ đã thống nhất
+- Giải trình khối lượng với khách hàng (nếu cần)
+        Mục tiêu: Bàn giao sản phẩm hoàn thiện tốt nhất đến với khách hàng
+        Kết quả trả ra: - Bàn giao dự án 
+- Bảng khối lượng quyết toán Final
+        Receiver: NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+17. Giai đoạn: After Sales & Maintainance  
+   Công việc: Nghiệm thu và bàn giao khách hàng
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: NV Kinh doanh
+        Điều kiện tiên quyết: Bảng giá trị khối lượng quyết toán Ver 01
+Bản vẽ hoàn công
+        Làm gì: - Tổng hợp thông tin, up lênServer
+- Cập nhật các thông tin thay đổi/ chỉnhsửa
+- Giải trình hồ sơ với khách hàng (nếu cần)
+        Mục tiêu: Bàn giao sản phẩm hoàn thiện tốt nhất đến với khách hàng
+        Kết quả trả ra: - Biên bản nghiệm thu hoàn thành và đưa vào sử dụng
+- Bảng khối lượng quyết toán Final
+- Đề nghị thanh toán đợt cuối
+- Xuất hóa đơn tài chính (nếu có)
+- Phiếu bảo hành
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+18. Giai đoạn: After Sales & Maintainance  
+   Công việc: Nghiệm thu và bàn giao khách hàng
+        Phòng ban: Thiết kế
+        A: TP Thiết kế
+        R: NV Thiết kế
+        Điều kiện tiên quyết: Bản vẽ hoàn công
+        Làm gì: - Hướng dẫn khách hàng sử dụng đúng mục đích và công năng
+        Mục tiêu: Bàn giao sản phẩm hoàn thiện tốt nhất đến với khách hàng
+        Kết quả trả ra: - Bản vẽ hoàn công đã ký
+        Receiver: Chỉ huy trưởng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+19. Giai đoạn: After Sales & Maintainance  
+   Công việc: Nghiệm thu và bàn giao khách hàng
+        Phòng ban: Marketing
+        A: Trưởng nhóm Marketing
+        R: NV Marketing
+        Điều kiện tiên quyết: Bản vẽ hoàn công
+        Làm gì: Setup standee, setup décor không gian để chụp hình
+Chụp hình, quay video dự án khi bàn giao để làm tư liệu
+        Mục tiêu: Truyển thông sau dự án và làm tư liệu tham khảo
+        Kết quả trả ra: Hình ảnh, video (nếu có)
+        Receiver: Chỉ huy trưởng / NV Kinh doanh
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Lưu trữ trên server
+        Duration: nan
+        Đo lường/đánh giá: nan

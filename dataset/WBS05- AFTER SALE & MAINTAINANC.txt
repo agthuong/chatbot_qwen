@@ -1,0 +1,102 @@
+1. Giai đoạn: After Sales & Maintainance  
+   Công việc: Quyết toán với thầu phụ
+        Phòng ban: Thi công
+        A: Chỉ huy trưởng
+        R: Giám sát
+        Điều kiện tiên quyết: Biên bản nghiệm thu Khối lượng QT
+        Làm gì: Nghiệm thu khối lượng với thầu phụ. Thời gian diễn ra trước hoặc sau khi nghiệm thu bàn giao với khách hàng
+
+        Mục tiêu: Nghiệm thu đúng đủ khối lượng cho thầu phụ
+        Kết quả trả ra: Biên bản nghiệm thu Khối lượng QT thầu phụ có xác nhận của Nhà thầu/Nhà cung cấp, Giám sát và Chỉ huy trưởng Dbhomes ở dự án đó
+        Receiver: NV Đặt hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: Viber/Lưu trữ trên server
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+2. Giai đoạn: After Sales & Maintainance  
+   Công việc: Quyết toán với thầu phụ
+        Phòng ban: Đặt hàng
+        A: TP Dự toán - Đặt hàng
+        R: NV Đặt hàng
+        Điều kiện tiên quyết: Biên bản nghiệm thu Khối lượng QT thầu phụ có xác nhận của Nhà thầu/Nhà cung cấp, Giám sát và Chỉ huy trưởng Dbhomes ở dự án đó
+        Làm gì: Hoàn tất hồ sơ quyết toán với thầu phụ
+Thanh toán cho thầu phụ
+        Mục tiêu: Thanh toán đúng đủ khối lượng cho thầu phụ
+        Kết quả trả ra: Bộ hồ sơ bao gồm:
+- Biên bản nghiệm thu khối lượng quyết toán
+- Bảng giá trị khối lượng nghiệm thu quyết toán
+- ĐNTT
+- Hóa đơn tài chính nếu có
+        Receiver: NV Kế toán
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Lưu trữ trên server
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+3. Giai đoạn: After Sales & Maintainance  
+   Công việc: Quyết toán với thầu phụ
+        Phòng ban: Kế toán
+        A: TP Kế toán
+        R: NV Kế toán
+        Điều kiện tiên quyết: Bộ hồ sơ bao gồm:
+- Biên bản nghiệm thu khối lượng quyết toán
+- Bảng giá trị khối lượng nghiệm thu quyết toán
+- ĐNTT
+- Hóa đơn tài chính nếu có
+        Làm gì: Kiểm tra hồ sơ kế toán
+Nhập liệu, lưu trữ 01 bộ hồ sơ
+        Mục tiêu: Thanh toán đúng đủ khối lượng cho thầu phụ
+        Kết quả trả ra: Hồ sơ mua hàng còn lại
+        Receiver: NV Đặt hàng
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Misa/Lưu trữ trên server
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+4. Giai đoạn: After Sales & Maintainance  
+   Công việc: Bảo hành
+        Phòng ban: Thi công
+        A: TP Kế toán
+        R: NV Kế toán
+        Điều kiện tiên quyết: - Bản vẽ hoàn công
+- 3D
+- Khối lượng quyết toán
+- Danh sách liên hệ thầu phụ
+- Phiếu bảo hành (bản scan/copy)
+        Làm gì: Bàn giao thông tin dự án cho Team bảo trì
+Đội Bảo trì bảo trì dự án khi có yêu cầu
+        Mục tiêu: Bàn giao đúng, đủ thông tin dự án cho Đội bảo trì
+        Kết quả trả ra: Biên bản bào giao:
+- Bản vẽ hoàn công
+- 3D
+- Khối lượng quyết toán
+- Danh sách liên hệ thầu phụ
+- Phiếu bảo hành
+        Receiver: Bảo Trì
+        Định kỳ thực hiện: Khi có yêu cầu
+        Gửi kết quả qua: Viber
+        Duration: nan
+        Đo lường/đánh giá: nan
+
+-------------
+
+5. Giai đoạn: Done 
+   Công việc: Đóng dự án
+        Phòng ban: Kinh doanh
+        A: Trưởng nhóm Kinh doanh
+        R: Sale Admin
+        Điều kiện tiên quyết: Hết hạn bảo hành
+        Làm gì: Chuyển Board dự án trên PM
+        Mục tiêu: Đóng dự án
+        Kết quả trả ra: Biên bản bào giao:
+- Bản vẽ hoàn công
+- 3D
+- Khối lượng quyết toán
+- Danh sách liên hệ thầu phụ
+- Phiếu bảo hành
+        Receiver: Bảo Trì
+        Định kỳ thực hiện: Khi phát sinh
+        Gửi kết quả qua: PM/Viber/Mail
+        Duration: nan
+        Đo lường/đánh giá: nan
